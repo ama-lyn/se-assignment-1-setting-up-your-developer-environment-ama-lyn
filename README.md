@@ -3,18 +3,19 @@
 # Dev_Setup
 Setup Development Environment
 
-#Assignment: Setting Up Your Developer Environment
+# Assignment: Setting Up Your Developer Environment
 
-#Objective:
+## Objective:
 This assignment aims to familiarize you with the tools and configurations necessary to set up an efficient developer environment for software engineering projects. Completing this assignment will give you the skills required to set up a robust and productive workspace conducive to coding, debugging, version control, and collaboration.
 
-#Tasks:
+## Tasks:
 
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
@@ -36,15 +37,17 @@ This assignment aims to familiarize you with the tools and configurations necess
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
-#Deliverables:
+## Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
 
-#Submission:
+## Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
 
-#Evaluation Criteria:**
+ASSINGMENT SUBMISSION -> SETUP DOCUMENT [ASSIGNMENT 1](<Documenting My Setup.pdf>)
+
+## **Evaluation Criteria:**
 - Completeness and accuracy of setup documentation.
 - Effectiveness of version control implementation.
 - Appropriateness of tools selected for the project requirements.
